@@ -1,7 +1,7 @@
 ---
-degree: B.Sc in Electrical and Electronics Engineering
-institute: Ahsanullah University of Science and Technology
-duration: 2016 - 2020
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
-order: 1
+Degree: B. Pharm (Hons)
+Institute: Daffodil International University
+Passing Year: 2018
+CGPA: 3.64 Out of 4.00
+Order: 1
 ---
