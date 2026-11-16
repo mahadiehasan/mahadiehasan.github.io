@@ -1,9 +1,21 @@
-name: Arnob Karmokar
-tagline: Electrical and Electronic Engineer
-career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
-color-theme: red # red or blue
+name: Mahadie Hasan Jahad
+tagline: Pharmacy | Public Health | Molecular Genetics | Biomedical Research
+career-objective: I am a pharmacy graduate and public health professional with a strong
+  interdisciplinary research background in molecular biology, cancer
+  molecular epidemiology, pharmacogenomics, and precision medicine.
+  Currently working as a Research Assistant at Rufaida BioMeds, I contribute
+  to molecular research involving SNP genotyping, PCR-based assays,
+  molecular biomarkers, and cancer susceptibility in Bangladeshi populations.
+  My academic background includes a Bachelor of Pharmacy and a Master of
+  Public Health, complemented by research, teaching, pharmaceutical industry,
+  and data analytics experience. My long-term goal is to advance translational
+  biomedical research by integrating molecular laboratory investigations,
+  epidemiological approaches, and computational methods to address
+  significant health challenges.
+ Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
+color-theme: dark blue # dark blue or blue
 avatar-filename: avatar.png # Change to your avatar's filename
-url: academicportfolio.github.io
+url: mahadiehasan.github.io
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -12,16 +24,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: mahadie.hasan91@gmail.com
   github: 
     visibility: true
-    handle: arnobk
+    handle: mahadiehasan
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
+    handle: https://www.linkedin.com/in/mahadie-hasan-jahad/
   twitter: 
     visibility: true
-    handle: arnobdotme
+    handle: mahadiehasan
 
 # Collections
 collections:
@@ -53,28 +65,28 @@ collections:
 # About Page Options
 collection_option:
   experience: 
-    label: Experience
+    label: Research & Professional Experience
     visibility: true
   education: 
     label: Education
     visibility: true
   projects: 
-    label: Projects
+    label: Research Projects
     visibility: true
   skills: 
-    label: Technical Skills
+    label: Technical & Laboratory Skills
     visibility: true
   publications: 
     label: Publications
     visibility: true
   volunteerexperience: 
-    label: Volunteer Experience
+    label: Leadership & Volunteer Experience
     visibility: true
   certifications: 
-    label: Certifications
+    label: Training & Certifications
     visibility: true
   achievements: 
-    label: Achievements
+    label: Awards & Achievements
     visibility: true
 
 navigation:
